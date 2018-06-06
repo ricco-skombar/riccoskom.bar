@@ -1,6 +1,6 @@
 # riccoskom.bar 
 
-Install this project manually on a CentOs 7 Server:
+Manually intallation on a CentOs 7 Server:
 
 ----------------
 
